@@ -50,9 +50,3 @@ The project is divided into three main files:
 ## Contributing
 
 Contributions to the Alarm Clock project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## Development
-
-If you want to modify or enhance the alarm clock, you can make changes to the `script.js` file. You can add additional features or customize the behavior as per your requirements.
-
-
